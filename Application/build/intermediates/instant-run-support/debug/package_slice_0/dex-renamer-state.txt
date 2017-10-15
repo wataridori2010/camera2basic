@@ -1,0 +1,4 @@
+#Tue Oct 03 00:29:29 JST 2017
+base.0=/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex

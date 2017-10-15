@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/itoyuichi/.android/build-cache/84d13db758261ad0fbaa956ff03f0bd3229cd04a/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/itoyuichi/.android/build-cache/84d13db758261ad0fbaa956ff03f0bd3229cd04a/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/itoyuichi/.android/build-cache/84d13db758261ad0fbaa956ff03f0bd3229cd04a/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/itoyuichi/.android/build-cache/84d13db758261ad0fbaa956ff03f0bd3229cd04a/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

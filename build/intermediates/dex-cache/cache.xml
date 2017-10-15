@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c05441c2191dd5a6aa705d1f9423ee3c3f3bcf2d">
+        <dex dex="/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b6009e872da38ddf39bbc1ea7a9386d4585430c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/itoyuichi/.android/build-cache/457b49630c9ad29bc1efb2fbdd587ce51a816ad6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57021b74c0318576a279f78d32c4926e410efad0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/itoyuichi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_f17b1076de73e4b6abcf52fabcb5550c31ebfffa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/itoyuichi/.android/build-cache/f580544b72a7ceb17cf1b72b85fa15cfe8ea0f1b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5a080c0681b2aae4d6f9602bc463d11e94738ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/itoyuichi/.android/build-cache/ec569d821adc61c2e910ed4bd10451287b285f58/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_344311f7b8ccf86614fc5f642666787852f563b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/itoyuichi/.android/build-cache/84d13db758261ad0fbaa956ff03f0bd3229cd04a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fa285015976e337e5f909da230c064d581f36c51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/itoyuichi/.android/build-cache/ffba554b65affd685755b0265c6de4c16e5af6a1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b4461b064eedebff8068fb075bee97432bf911e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/itoyuichi/.android/build-cache/cd11b1a6894c9bef0684eef2465c8a466f643905/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a9e6bbe5bf2532abf0b2b7413a329fe93da30ede/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/itoyuichi/.android/build-cache/8d0ab2bbbcabfc3226b5e76bc1832e935c303b16/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9576ea09dab0989a611d04c0e56bd9516d059aa6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1b349a53eb0db89a6b54626212bbd75992ab09b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/itoyuichi/.android/build-cache/2641268d21cee61e486ecedf2235e91e87b8cff8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_616080e24c16e3be8aee89ff734965b777fbe8a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/itoyuichi/.android/build-cache/ec3cf907c6310dcbfd78e22df1e9f47975101efd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ead704dcaaf70a6e975342a164cf4a587552ef8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/itoyuichi/.android/build-cache/3b7e73e0e81190cf366c76f2ba45ba9eb98c4967/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e3fb04d8f35c3a0b19963537dc71d29e125b672/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/itoyuichi/.android/build-cache/0c473e23239082301452e736de48096be930091f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_82c06f09a6d63e93965fd3b5f4d937fbf4b9b28c/classes.dex" />
+    </item>
+
+</items>

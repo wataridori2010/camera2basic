@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/itoyuichi/.android/build-cache/84d13db758261ad0fbaa956ff03f0bd3229cd04a/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/itoyuichi/.android/build-cache/84d13db758261ad0fbaa956ff03f0bd3229cd04a/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/itoyuichi/.android/build-cache/84d13db758261ad0fbaa956ff03f0bd3229cd04a/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/itoyuichi/.android/build-cache/84d13db758261ad0fbaa956ff03f0bd3229cd04a/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/itoyuichi/.android/build-cache/84d13db758261ad0fbaa956ff03f0bd3229cd04a/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/itoyuichi/.android/build-cache/84d13db758261ad0fbaa956ff03f0bd3229cd04a/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/itoyuichi/.android/build-cache/84d13db758261ad0fbaa956ff03f0bd3229cd04a/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/itoyuichi/.android/build-cache/84d13db758261ad0fbaa956ff03f0bd3229cd04a/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/itoyuichi/.android/build-cache/84d13db758261ad0fbaa956ff03f0bd3229cd04a/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/itoyuichi/.android/build-cache/84d13db758261ad0fbaa956ff03f0bd3229cd04a/output/res/color-v23/abc_tint_spinner.xml"
+    }
+]

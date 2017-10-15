@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/src/main/AndroidManifest.xml:18:1-40:12
+	package
+		ADDED from /Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/src/main/AndroidManifest.xml:19:5-47
+	xmlns:android
+		ADDED from /Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/src/main/AndroidManifest.xml:24:19-67
+application
+ADDED from /Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/src/main/AndroidManifest.xml:26:5-38:19
+MERGED from [com.android.support:support-v13:25.3.1] /Users/itoyuichi/.android/build-cache/cd11b1a6894c9bef0684eef2465c8a466f643905/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/itoyuichi/.android/build-cache/ec569d821adc61c2e910ed4bd10451287b285f58/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/itoyuichi/.android/build-cache/84d13db758261ad0fbaa956ff03f0bd3229cd04a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/itoyuichi/.android/build-cache/2641268d21cee61e486ecedf2235e91e87b8cff8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/itoyuichi/.android/build-cache/3b7e73e0e81190cf366c76f2ba45ba9eb98c4967/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/itoyuichi/.android/build-cache/457b49630c9ad29bc1efb2fbdd587ce51a816ad6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/itoyuichi/.android/build-cache/ec3cf907c6310dcbfd78e22df1e9f47975101efd/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/itoyuichi/.android/build-cache/f580544b72a7ceb17cf1b72b85fa15cfe8ea0f1b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/itoyuichi/.android/build-cache/8d0ab2bbbcabfc3226b5e76bc1832e935c303b16/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/itoyuichi/.android/build-cache/ffba554b65affd685755b0265c6de4c16e5af6a1/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/itoyuichi/.android/build-cache/0c473e23239082301452e736de48096be930091f/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/src/main/AndroidManifest.xml:27:9-41
+	android:allowBackup
+		ADDED from /Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/src/main/AndroidManifest.xml:26:18-44
+	android:icon
+		ADDED from /Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/src/main/AndroidManifest.xml:28:9-45
+	android:theme
+		ADDED from /Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/src/main/AndroidManifest.xml:29:9-45
+activity#com.example.android.camera2basic.CameraActivity
+ADDED from /Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/src/main/AndroidManifest.xml:31:9-37:20
+	android:label
+		ADDED from /Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/src/main/AndroidManifest.xml:32:19-51
+	android:name
+		ADDED from /Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/src/main/AndroidManifest.xml:31:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.3.1] /Users/itoyuichi/.android/build-cache/cd11b1a6894c9bef0684eef2465c8a466f643905/output/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/itoyuichi/.android/build-cache/ec569d821adc61c2e910ed4bd10451287b285f58/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/itoyuichi/.android/build-cache/84d13db758261ad0fbaa956ff03f0bd3229cd04a/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/itoyuichi/.android/build-cache/2641268d21cee61e486ecedf2235e91e87b8cff8/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/itoyuichi/.android/build-cache/3b7e73e0e81190cf366c76f2ba45ba9eb98c4967/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/itoyuichi/.android/build-cache/457b49630c9ad29bc1efb2fbdd587ce51a816ad6/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/itoyuichi/.android/build-cache/ec3cf907c6310dcbfd78e22df1e9f47975101efd/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/itoyuichi/.android/build-cache/f580544b72a7ceb17cf1b72b85fa15cfe8ea0f1b/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/itoyuichi/.android/build-cache/8d0ab2bbbcabfc3226b5e76bc1832e935c303b16/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/itoyuichi/.android/build-cache/ffba554b65affd685755b0265c6de4c16e5af6a1/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/itoyuichi/.android/build-cache/0c473e23239082301452e736de48096be930091f/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.3.1] /Users/itoyuichi/.android/build-cache/cd11b1a6894c9bef0684eef2465c8a466f643905/output/AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from /Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.1] /Users/itoyuichi/.android/build-cache/cd11b1a6894c9bef0684eef2465c8a466f643905/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/itoyuichi/.android/build-cache/ec569d821adc61c2e910ed4bd10451287b285f58/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/itoyuichi/.android/build-cache/84d13db758261ad0fbaa956ff03f0bd3229cd04a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/itoyuichi/.android/build-cache/2641268d21cee61e486ecedf2235e91e87b8cff8/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/itoyuichi/.android/build-cache/3b7e73e0e81190cf366c76f2ba45ba9eb98c4967/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/itoyuichi/.android/build-cache/457b49630c9ad29bc1efb2fbdd587ce51a816ad6/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/itoyuichi/.android/build-cache/ec3cf907c6310dcbfd78e22df1e9f47975101efd/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/itoyuichi/.android/build-cache/f580544b72a7ceb17cf1b72b85fa15cfe8ea0f1b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/itoyuichi/.android/build-cache/8d0ab2bbbcabfc3226b5e76bc1832e935c303b16/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/itoyuichi/.android/build-cache/ffba554b65affd685755b0265c6de4c16e5af6a1/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/itoyuichi/.android/build-cache/0c473e23239082301452e736de48096be930091f/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.1] /Users/itoyuichi/.android/build-cache/cd11b1a6894c9bef0684eef2465c8a466f643905/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v13:25.3.1] /Users/itoyuichi/.android/build-cache/cd11b1a6894c9bef0684eef2465c8a466f643905/output/AndroidManifest.xml:26:9-47

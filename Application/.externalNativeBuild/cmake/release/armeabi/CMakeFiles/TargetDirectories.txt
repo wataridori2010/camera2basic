@@ -1,0 +1,3 @@
+/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/edit_cache.dir
+/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/rebuild_cache.dir
+/Users/itoyuichi/Library/Android/projects/android-Camera2Basic-master/Application/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/native-lib.dir
